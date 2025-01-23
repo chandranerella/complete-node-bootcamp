@@ -1,0 +1,20 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment variables file
+.env
+
+# Ignore log files
+*.log
+
+# Ignore build or compiled files
+/dist/
+/build/
+
+/*.tmp  # Ignore all files with .tmp extension in the root directory
+
+# Ignore IDE/Editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
